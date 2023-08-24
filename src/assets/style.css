@@ -1,0 +1,7 @@
+.dark:hover {
+    cursor: pointer;
+}
+
+.darkMode {
+    background-color: black;
+}
